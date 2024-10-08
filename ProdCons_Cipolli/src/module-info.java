@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module ProdCons_Cipolli {
-}
